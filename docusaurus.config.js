@@ -71,7 +71,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/gasolin/learndapp',
+              href: 'https://github.com/leo424y/learndapp',
             },
           ],
         },
