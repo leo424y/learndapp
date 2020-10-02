@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gasolin/learndapp.git"
+    "url": "git+https://github.com/leo424y/learndapp.git"
   },
   "keywords": [
     "solidity",
@@ -21,9 +21,9 @@
   "author": "Fred Lin",
   "private": true,
   "bugs": {
-    "url": "https://github.com/gasolin/learndapp/issues"
+    "url": "https://github.com/leo424y/learndapp/issues"
   },
-  "homepage": "https://github.com/gasolin/learndapp#readme",
+  "homepage": "https://github.com/leo424y/learndapp#readme",
   "dependencies": {
     "gitbook": "3.2.3",
     "gitbook-plugin-chart": "^0.2.2",
